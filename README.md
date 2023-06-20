@@ -4,10 +4,10 @@ The Billing System is designed to handle advanced payments and weekly debits for
 ## Architecture Overview
 The Billing System consists of the following components:
 
-1. Billing System: The main component responsible for managing the billing process.
-2. Processor API: An interface to interact with the Processor black box for performing transactions.
-3. Transaction: A class representing a single transaction with relevant attributes.
-4. Customer: A class representing a customer with account details and payment history.
+1. Classes and Components
+2. Databases
+3. Edge Cases
+4. Flows
 
 ## Databases
 The Billing System utilizes the following databases:
